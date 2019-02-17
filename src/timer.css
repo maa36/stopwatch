@@ -1,0 +1,54 @@
+.principal {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 20em;
+  }
+
+.nom {
+    display: flex;
+    justify-content: space-around;
+    margin: 0em 33em;
+    width: 20%;
+    text-align: center;
+    font-weight: bold;
+}
+
+.Number {
+    display: flex;
+    font-size: 70px;
+    font-weight: inherit;
+    margin: 0em 5em;
+    padding-left: 2.7em;
+    text-align: center;
+}
+
+.hours {
+    width: 1.1em;
+    font-size: 50px;
+    padding: 0em;
+    background-color: transparent;
+
+}
+
+.point {
+    width: 0.5em;
+    font-size: 50px;
+    padding: 0em;
+}
+
+.result {
+    display : flex;
+}
+
+.blocButton {
+    display: flex;
+    text-align : center;
+    width: 35%;
+    margin-left: 28em ;
+    justify-content: space-around;
+} 
+
+.btn {
+    width: 5em;
+}
